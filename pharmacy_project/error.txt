@@ -1,0 +1,24 @@
+[Thu Apr 10 02:22:50 PM GMT 2025] ERROR: Invalid expiry date for omar azam
+[Thu Apr 10 02:33:53 PM GMT 2025] ERROR: Invalid expiry date for aza
+[2025-04-26 14:38:47] ERROR: Invalid end date entered: 54877-5478-874
+[2025-04-26 14:42:22] ERROR: Invalid end date entered: 65655-878-541
+[2025-04-26 14:45:37] ERROR: Invalid start date entered: 2548
+[2025-04-26 14:46:19] ERROR: Invalid top-k input entered: 45.64
+[2025-04-26 14:46:36] ERROR: Invalid start date entered: 215487
+2025-04-26 17:50:47 DETECT AN ERROR : invalid expiry date entered: 2024.21.1
+2025-04-26 18:24:05 DETECT AN ERROR : invalid Name since it been used : omar azam
+2025-04-26 19:50:29 DETECT AN ERROR : invalid name (Not found) : dsd
+2025-04-26 19:50:47 DETECT AN ERROR : invalid name (Not found) : dsd
+2025-04-26 19:50:52 DETECT AN ERROR : invalid name (Not found) : mml
+2025-04-26 19:51:00 DETECT AN ERROR : invalid name (Not found) : dsd
+2025-04-26 19:54:13 DETECT AN ERROR : invalid name (Not found) : dsd
+2025-04-26 19:54:25 DETECT AN ERROR : invalid name (Not found) : mml
+2025-04-26 19:54:28 DETECT AN ERROR : invalid name (Not found) : dsd
+2025-04-26 19:56:55 DETECT AN ERROR : invalid name (Not found) : dsf
+2025-05-01 06:35:09 DETECT AN ERROR : invalid expiry date entered: '2021-5-1
+2025-05-04 19:43:55 DETECT AN ERROR : invalid Name since it been used : sdsd
+2025-05-04 20:01:35 DETECT AN ERROR : invalid name (Not found) : 
+2025-05-04 20:06:39 DETECT AN ERROR : invalid name (Not found) : omar
+2025-05-04 20:07:00 DETECT AN ERROR : invalid name (Not found) : sds
+2025-05-05 15:43:30 DETECT AN ERROR : invalid expiry date entered: 20218777
+2025-05-05 15:45:04 DETECT AN ERROR : invalid qantity number : 454.6

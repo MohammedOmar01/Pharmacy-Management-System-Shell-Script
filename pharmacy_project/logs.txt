@@ -1,0 +1,137 @@
+[Thu Apr 10 02:22:11 PM GMT 2025] INFO: PMS script accessed by user: kali
+[Thu Apr 10 02:22:50 PM GMT 2025] ERROR: Invalid expiry date for omar azam
+[Thu Apr 10 02:23:38 PM GMT 2025] INFO: Added new medicine: omar azam
+[Thu Apr 10 02:32:36 PM GMT 2025] INFO: PMS script started by user: kali
+[Thu Apr 10 02:32:55 PM GMT 2025] INFO: Updated medicine: omar azam
+[Thu Apr 10 02:33:53 PM GMT 2025] ERROR: Invalid expiry date for aza
+[Thu Apr 10 02:34:27 PM GMT 2025] INFO: Added new medicine: omarr
+[2025-04-26 12:44:32] INFO : PMS launched by kali
+[2025-04-26 12:44:32] INFO : Removed expired omarr (exp:2025-04-07)
+[2025-04-26 12:51:00] INFO : Script started by kali
+[2025-04-26 13:03:40] INFO  : script launched by kali
+[2025-04-26 13:06:18] INFO  : added suzan
+[2025-04-26 13:08:21] INFO  : updated omar azam
+[2025-04-26 13:09:18] INFO  : auto-removed expired suzan (exp:2024-12-1)
+[2025-04-26 13:10:07] INFO  : sold omar azam x123 to azamm
+[2025-04-26 13:15:14] INFO  : script launched by kali
+[2025-04-26 13:23:44] INFO  : script launched by kali
+[2025-04-26 14:25:24] INFO  : script launched by kali
+[2025-04-26 14:37:58] INFO  : script launched by kali
+[2025-04-26 14:41:59] INFO  : script launched by kali
+[2025-04-26 14:45:29] INFO  : script launched by kali
+[2025-04-26 14:45:37] INFO  : script launched by kali
+[2025-04-26 14:46:11] INFO  : script launched by kali
+[2025-04-26 14:46:23] INFO  : script launched by kali
+[2025-04-26 15:12:01] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 15:16:43] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 15:17:05] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 15:17:25] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 15:24:12] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 15:26:55] INFO  : added mpp
+[2025-04-26 15:27:43] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 15:27:43] INFO: Auto-removed expired mpp (expired 2014-09-1)
+[2025-04-26 16:11:45] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 16:12:28] INFO  : added dsd
+[2025-04-26 16:34:38] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 16:34:56] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 16:36:50] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 16:39:34] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 17:01:04] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 17:02:09] INFO  : added 
+[2025-04-26 17:41:23] IMPOTANT NOTE : the script launched by [kali]
+2025-04-26 17:41:24 removed expired  expired 554
+[2025-04-26 17:42:36] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 17:45:01] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 17:50:30] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 17:52:16] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 17:52:47] INFO  : added omar azam
+[2025-04-26 18:23:56] IMPOTANT NOTE : the script launched by [kali]
+2025-04-26 18:23:56 removed expired omar azam expired 2024-7-12
+[2025-04-26 19:00:47] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 19:01:39] IMPORTANT INFORAMTION : omar azam Has updated
+[2025-04-26 19:03:06] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 19:08:40] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 19:09:20] IMPORTANT INFORAMTION : omar azam Has updated
+[2025-04-26 19:27:20] IMPOTANT NOTE : the script launched by [kali]
+2025-04-26 19:27:20 removed expired omar azam expired 2024-08-09
+[2025-04-26 19:50:22] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 19:54:09] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 19:56:50] IMPOTANT NOTE : the script launched by [kali]
+2025-04-26 19:57:14 IMPORTANT INFORAMTION : sold  x250 to zaa
+[2025-04-26 20:01:16] IMPOTANT NOTE : the script launched by [kali]
+2025-04-26 20:01:33 IMPORTANT INFORAMTION : sold  x120 to mom
+[2025-04-26 20:01:54] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 20:02:08] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 20:04:39] IMPOTANT NOTE : the script launched by [kali]
+2025-04-26 20:04:53 IMPORTANT INFORAMTION : sold  x21 to moj
+[2025-04-26 20:17:36] IMPOTANT NOTE : the script launched by [kali]
+[2025-04-26 20:29:20] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-01 06:34:04] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-01 06:34:19] IMPOTANT NOTE : the script launched by [kali]
+2025-05-01 06:34:41 IMPORTANT INFORMATION : added omar
+2025-05-01 06:35:32 IMPORTANT INFORMATION : added moahd
+[2025-05-01 06:36:01] IMPOTANT NOTE : the script launched by [kali]
+2025-05-01 06:36:01 removed expired omar expired 2024-09-01
+2025-05-01 06:36:01 removed expired moahd expired 2014-12-10
+[2025-05-01 06:42:09] IMPOTANT NOTE : the script launched by [kali]
+2025-05-01 06:42:29 IMPORTANT INFORAMTION : sold  x40 to jj
+2025-05-01 06:43:07 IMPORTANT INFORAMTION : sold  x100 to m
+[2025-05-01 06:43:14] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-01 06:43:19] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-01 10:54:18] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 19:29:17] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 19:29:28] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 19:30:08] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 19:30:53] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 19:32:13] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 19:34:28] IMPOTANT NOTE : the script launched by [kali]
+2025-05-04 19:35:56 IMPORTANT INFORMATION : added sso
+2025-05-04 19:36:25 IMPORTANT INFORMATION : added sdsd
+[2025-05-04 19:43:18] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 19:43:25] IMPOTANT NOTE : the script launched by [kali]
+2025-05-04 19:43:46 IMPORTANT INFORMATION : added kosd
+2025-05-04 19:44:43 IMPORTANT INFORMATION : added kutd
+2025-05-04 19:45:08 IMPORTANT INFORMATION : added sdsds
+[2025-05-04 19:45:14] IMPOTANT NOTE : the script launched by [kali]
+2025-05-04 19:45:14 removed expired sdsds expired 2012-12-12
+[2025-05-04 20:01:07] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:01:10] IMPOTANT NOTE : the script launched by [kali]
+2025-05-04 20:01:31 IMPORTANT INFORMATION : added kdfdf
+[2025-05-04 20:01:40] IMPOTANT NOTE : the script launched by [kali]
+2025-05-04 20:01:40 removed expired kdfdf expired 2021-02-08
+[2025-05-04 20:01:49] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:01:56] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:02:03] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:04:37] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:04:42] IMPOTANT NOTE : the script launched by [kali]
+2025-05-04 20:05:01 IMPORTANT INFORMATION : added dsad
+[2025-05-04 20:05:07] IMPOTANT NOTE : the script launched by [kali]
+2025-05-04 20:05:07 removed expired dsad expired 2021-09-07
+[2025-05-04 20:05:12] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:05:35] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:06:18] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:06:34] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:06:40] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:06:52] IMPOTANT NOTE : the script launched by [kali]
+2025-05-04 20:07:16 IMPORTANT INFORAMTION : sold  x10 to pp
+[2025-05-04 20:07:18] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:07:29] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:07:36] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:12:22] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:12:26] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:12:34] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:13:33] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:14:47] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:14:54] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:15:18] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-04 20:15:28] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-05 04:08:58] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-05 04:09:09] IMPOTANT NOTE : the script launched by [kali]
+2025-05-05 04:09:41 IMPORTANT INFORMATION : added test7
+[2025-05-05 04:09:46] IMPOTANT NOTE : the script launched by [kali]
+2025-05-05 04:09:46 removed expired test7 expired 2021-09-07
+2025-05-05 15:38:04 removed expired dsa expired 2021-02-07
+[EXPIRED]|dsa|45|87|2021-02-07|daad
+[2025-05-05 15:42:56] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-05 15:44:56] IMPOTANT NOTE : the script launched by [kali]
+[2025-05-05 15:45:24] IMPOTANT NOTE : the script launched by [kali]
